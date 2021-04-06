@@ -1,0 +1,28 @@
+.todo-list-item{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    width: 51%;
+    border-radius: 9px;
+    margin: auto;
+    display: flex;
+    margin-top: 18px;
+}
+.remove-button{
+    border: 0;
+    outline: 0;
+    background-color: red;
+    padding: 5px;
+    border-radius: 14px;
+    color: white;
+    margin-top: 14px;
+}
+.todo-list-item div:first-child{
+    text-align: left;
+    padding-left: 46px;
+}
+
+.completed-button {
+    padding: 5px 5px 5px 2px;
+    border-radius: 8px;
+    margin-right: 8px;
+}

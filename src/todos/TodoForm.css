@@ -1,0 +1,26 @@
+.todo-form{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  padding: 1rem;
+  width: 48%;
+  border-radius: 9px;
+  margin: auto;
+}
+.todo-form-input{
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid black;
+  width: 20rem;
+  padding: 0.4rem;
+}
+.btn
+{
+    border: 0;
+    outline: 0;
+    padding: 5px 60px 5px 60px;
+    border-radius: 13px;
+    border-color: green;
+    color: white;
+    background: green;
+}
